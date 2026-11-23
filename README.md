@@ -25,6 +25,10 @@ RobloxServerScout works in Chrome and other Chromium-based browsers that support
 Updating: download the new version (or run git pull), then click the reload icon on the ServerScout card in chrome://extensions and refresh the Roblox tab.
 
 # How it works
+The box will appear in the bottom right hand corner like so
+
+<img width="800" height="444" alt="Screenshot 2026-11-23 032814" src="https://github.com/user-attachments/assets/cd0a96d4-faff-4c0a-a9c4-739e9122d795" />
+
 <img width="374" height="28" alt="Screenshot 2026-11-23 022822" src="https://github.com/user-attachments/assets/314807b9-0371-4563-a618-c687c1292454" />
 
 Copy the numbers only part of the URL right before the name of the game towards the end of the URL and paste it into the box seen below as such, using commas, semicolos, or new lines (i prefer commas)
@@ -32,7 +36,6 @@ Copy the numbers only part of the URL right before the name of the game towards 
 <img width="430" height="116" alt="Screenshot 2026-11-23 022935" src="https://github.com/user-attachments/assets/8dd463fc-9719-49fa-8866-4f8d9c3fb30b" />
 
 Then paste the user of the person you want to find and press the button.
-
 
 
 # Disclaimer
