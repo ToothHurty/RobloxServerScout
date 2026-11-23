@@ -1,8 +1,0 @@
-{
-  "name": {
-    "message": "ServerScout"
-  },
-  "description": {
-    "message": "Find the Roblox server a player is in and join them, even when their joins are off."
-  }
-}
