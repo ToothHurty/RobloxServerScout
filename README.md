@@ -22,6 +22,8 @@ RobloxServerScout works in Chrome and other Chromium-based browsers that support
 4. Click Load unpacked and select the ServerScout folder, the one that contains manifest.json.
 5. Open any Roblox game page. The panel appears under the Play button.
 
+DO NOT DELETE THE FILE AFTER TURNING IT INOT AN EXTENSION. It being on your computer is what allows it to run as an extension, if you don't believe me try it yourself, delete it and see if it works.
+
 Updating: download the new version (or run git pull), then click the reload icon on the ServerScout card in chrome://extensions and refresh the Roblox tab.
 
 # How it works
