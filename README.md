@@ -37,3 +37,8 @@ Then paste the user of the person you want to find and press the button.
 
 # Disclaimer
 RobloxServerScout is an independent project. It is not affiliated with, endorsed by or sponsored by Roblox Corporation. "Roblox" is a trademark of Roblox Corporation. The extension relies on Roblox's public website and APIs, which can change at any time. Use it at your own risk and in line with Roblox's Terms of Use. (I also borrowed this disclaimer from Vaelixx)
+
+
+# Changes
+If you want changes to it you can email me at altforhackz@gmail.com
+or change it yourself, it's free to download, but if you do you should let me know because I'd want to see what you changed :P
