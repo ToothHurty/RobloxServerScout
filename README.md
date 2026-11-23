@@ -16,7 +16,7 @@ For set up/Installation check out Vaelixx's Repo or follow these steps (from Vae
 RobloxServerScout works in Chrome and other Chromium-based browsers that support Manifest V3 extensions (Edge, Brave, Opera, Vivaldi).
 
 1. Download this repository, either with Code → Download ZIP (then unzip it) or with git:
-    git clone https://github.com/Vaelixx/ServerScout.git
+    git clone https://github.com/ToothHurty/RobloxServerScout.git
 2. Open chrome://extensions (in Edge: edge://extensions).
 3. Turn on Developer mode (top right).
 4. Click Load unpacked and select the ServerScout folder, the one that contains manifest.json.
