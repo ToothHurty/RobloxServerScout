@@ -1,0 +1,71 @@
+<div class="ss-dragbar" id="ss-drag" title="Drag to move the panel">
+  <span class="ss-drag-grip" aria-hidden="true"></span>
+</div>
+
+<div class="ss-games" id="ss-games-row">
+  <input type="text" id="ss-games" name="ss-games" placeholder="Games to search (names, IDs or links)"
+         title="Game names, place IDs or game links - one per line or comma separated"
+         spellcheck="false" autocomplete="off" autocapitalize="none" maxlength="500">
+</div>
+
+<form class="ss-row" id="ss-form" autocomplete="off">
+  <span class="ss-avatar" id="ss-user" aria-hidden="true">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+      <circle cx="12" cy="8.5" r="3.75"></circle>
+      <path d="M4.5 20.5v-.9a7.5 7.5 0 0 1 15 0v.9"></path>
+    </svg>
+  </span>
+
+  <input type="text" id="ss-input" name="ss-player" placeholder="Username"
+         title="Username, @username, user id or profile link"
+         spellcheck="false" autocomplete="off" autocapitalize="none" maxlength="120">
+
+  <button type="button" id="ss-clear" class="ss-clear" aria-label="Clear" title="Clear (Esc)" hidden>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="m7.5 7.5 9 9M16.5 7.5l-9 9"></path>
+    </svg>
+  </button>
+
+  <button type="submit" id="ss-search" class="ss-go" disabled aria-label="Search">
+    <svg class="ss-go-icon ss-go-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <circle cx="10.8" cy="10.8" r="6.4"></circle>
+      <path d="m15.6 15.6 4 4"></path>
+    </svg>
+    <svg class="ss-go-icon ss-go-stop" viewBox="0 0 24 24" fill="currentColor">
+      <rect x="7" y="7" width="10" height="10" rx="2"></rect>
+    </svg>
+  </button>
+
+  <button type="button" id="ss-join" class="ss-go ss-join" disabled aria-label="Join player">
+    <svg class="ss-go-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M8.5 5.6a1 1 0 0 1 1.52-.85l8.1 5.4a1 1 0 0 1 0 1.7l-8.1 5.4a1 1 0 0 1-1.52-.85z"></path>
+    </svg>
+  </button>
+</form>
+
+<div class="ss-meta">
+  <p id="ss-status" role="status" aria-live="polite"></p>
+  <span class="ss-meta-right">
+    <span id="ss-count"></span>
+    <span id="ss-attempts"></span>
+  </span>
+</div>
+
+<div class="ss-controls">
+  <label class="ss-check" id="ss-repeat-wrapper">
+    <input type="checkbox" id="ss-repeat-checkbox">
+    <span class="ss-check-box" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m5 12.5 4.5 4.5L19 7"></path>
+      </svg>
+    </span>
+    <span id="ss-repeat-label"></span>
+  </label>
+</div>
+
+<div id="ss-server-list-container"></div>
+
+<div class="ss-diag" id="ss-diag" hidden>
+  <span class="ss-diag-dot" aria-hidden="true"></span>
+  <span id="ss-diag-text"></span>
+</div>
