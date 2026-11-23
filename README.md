@@ -29,6 +29,8 @@ The box will appear in the bottom right hand corner like so
 
 <img width="800" height="444" alt="Screenshot 2026-11-23 032814" src="https://github.com/user-attachments/assets/cd0a96d4-faff-4c0a-a9c4-739e9122d795" />
 
+Go to one of the games you want to check if a person is in
+
 <img width="374" height="28" alt="Screenshot 2026-11-23 022822" src="https://github.com/user-attachments/assets/314807b9-0371-4563-a618-c687c1292454" />
 
 Copy the numbers only part of the URL right before the name of the game towards the end of the URL and paste it into the box seen below as such, using commas, semicolos, or new lines (i prefer commas)
